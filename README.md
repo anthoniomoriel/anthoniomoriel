@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anthoniomoriel
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Telecommunication Engineering, Data Science and Electrical Engineering
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anthonio.moriel@gmail.com
+- 📫 You can reach me through anthonio.moriel@gmail.com
 
 <!---
 anthoniomoriel/anthoniomoriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
